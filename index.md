@@ -4,8 +4,10 @@ I'm James.
 
 This is a picture of me:
 
+![It's James!](/images/james.png)
 
-[GitHub](https://github.com/limitedgit)
-[Linkdin](https://www.linkedin.com/in/james-wang-2a1573191/)
+
+[GitHub](https://github.com/limitedgit)  
+[Linkdin](https://www.linkedin.com/in/james-wang-2a1573191/)  
 [Facebook](https://www.facebook.com/james.wang.984)
 
