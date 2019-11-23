@@ -4,7 +4,7 @@ I'm James.
 
 This is a picture of me:
 
-![It's James!](/james.jpg)
+<img src="james.jpg" alt="it's James!" width="100"/>
 
 
 [GitHub](https://github.com/limitedgit)  
